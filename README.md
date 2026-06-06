@@ -97,8 +97,8 @@ frontend/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd "AI project planer"
+git clone <https://github.com/sarabera/ai-project-planner.git>
+cd "AI project planner"
 ```
 
 ### 2. Backend setup
